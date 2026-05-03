@@ -10,19 +10,19 @@ A smart hangman game with levels, sarcasm, hints, and light/dark mode – built 
 4. Connect your GitHub repo.
 5. Set the following settings:
 
-- **Build Command:** `bundle install`
-- **Start Command:** `rackup --host 0.0.0.0 --port $PORT`
-- **Environment:** Ruby
-- **Port:** 9292 (automatically handled by $PORT on Render)
+Build Command:** `bundle install`
+Start Command:** `rackup --host 0.0.0.0 --port $PORT`
+Environment:** Ruby
+Port:** 9292 (automatically handled by $PORT on Render)
 
 You’ll get a public URL like:  
-👉 https://hangman-app-s1ec.onrender.com
+https://hangman-app-s1ec.onrender.com
 
-## 🎮 Features
+🎮 Features
 
-- ✅ Random words with difficulty variety
-- ✅ Hints available (💡)
-- ✅ Sarcastic feedback 😏
-- ✅ Light/Dark mode toggle (🌓)
-- ✅ Level progression
-- ✅ Applause sound on win
+Random words with difficulty variety.
+Hints available.
+Sarcastic feedback. 
+Light/Dark mode toggle.
+Level progression.
+Applause sound on win.
