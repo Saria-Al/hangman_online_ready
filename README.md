@@ -1,4 +1,4 @@
-# Hangman Game 🎯 (Sinatra)
+Hangman Game 🎯 (Sinatra)
 
 A smart hangman game with levels, sarcasm, hints, and light/dark mode – built with Ruby and Sinatra!
 
